@@ -1,1 +1,1 @@
-# AIVtuber--BETA ver0.1
+# AIVtuber--BETA ver0.2
